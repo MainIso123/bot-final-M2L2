@@ -47,4 +47,4 @@ async def trash(ctx):
     if msg.content in nonorganic:
         await ctx.send("put into anorganic trashcan mate!")
 
-bot.run("MTIxMzQ3MTEyNjI4MjMwOTcwMw.GtEYxs.vJliw469zAlKBSINS4Bz1I6ts0LTX3bkKWn4iQ")
+bot.run("BOT TOKEN HERE")
